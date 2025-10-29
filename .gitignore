@@ -1,0 +1,8 @@
+# OS / Editor junk
+Thumbs.db
+.DS_Store
+~$*
+*.tmp
+
+# VS Code workspace
+.vscode/
